@@ -1,0 +1,36 @@
+.pad-40{
+  padding: 40px;
+}
+.yellow {
+  background-color: yellow;
+}
+.blue{
+  background-color: blue;
+  height: 150px;
+}
+.border{
+  border: 2px solid black;
+
+}
+.green{
+  background-color: green;
+}
+.border{
+  border: 5px solid black;
+}
+.red{
+  background-color: red;
+  height: 200px;
+}
+.orange {
+  background-color: orange;
+  height: 300px;
+}
+.turquoise{
+  background-color: turquoise;
+  height: 200px;
+}
+.black{
+  background-color: black;
+  color:white;
+}
